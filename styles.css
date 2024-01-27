@@ -75,11 +75,14 @@ h2 {
 }
 
 * {
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 #preparation li::marker {
     color: hsl(332, 51%, 32%);
     font-size: 12px;
-    padding-right: 100px;
+}
+
+#preparation span {
+    padding-left: 12px;
 }
