@@ -64,3 +64,12 @@ h2 {
 #preparation ul {
     margin: 0;
 }
+
+#preparation ul {
+    padding-left: 0;
+    margin-left: 25px;
+}
+
+#preparation li:not(:last-of-type) {
+    margin-bottom: 12px;
+}
