@@ -137,11 +137,14 @@ table caption {
 }
 
 table th {
-    padding: 7px 30px;
+    padding: 0.8em 30px;
+    font-weight: 400;
 }
 
 table td {
-    padding: 7px 0;
+    padding: 0.8em 0;
+    font-weight: 700;
+    color: hsl(14, 45%, 36%);
 }
 
 table th,
