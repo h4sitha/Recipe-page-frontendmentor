@@ -25,3 +25,11 @@ img {
     width: 455px;
     border-radius: 8px;
 }
+
+h1, h2 {
+    font-family: "Young Serif";
+}
+
+h2 {
+    color: hsl(14, 45%, 36%);
+}
