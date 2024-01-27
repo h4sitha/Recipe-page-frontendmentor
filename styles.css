@@ -20,3 +20,8 @@
     font-family: 'Young Serif';
     src: url(./assets/fonts/young-serif/YoungSerif-Regular.ttf);
 }
+
+img {
+    width: 455px;
+    border-radius: 8px;
+}
