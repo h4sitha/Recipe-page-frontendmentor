@@ -125,6 +125,7 @@ h2 {
 
 table {
     width: 100%;
+    border-collapse: collapse;
 }
 
 table, table caption {
@@ -146,4 +147,8 @@ table td {
 table th,
 table td {
     width: 50%;
+}
+
+table tr:not(:last-of-type) {
+    border-bottom: 1px solid black;
 }
