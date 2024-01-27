@@ -46,6 +46,19 @@ h1, h2 {
     font-family: "Young Serif";
 }
 
+#header h1,
+#header p {
+    margin: 0;
+}
+
+#header h1 {
+    margin: 25px 0 15px 0;
+}
+
+#header p {
+    margin-bottom: 15px;
+}
+
 h2 {
     color: hsl(14, 45%, 36%);
 }
