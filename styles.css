@@ -73,3 +73,7 @@ h2 {
 #preparation li:not(:last-of-type) {
     margin-bottom: 12px;
 }
+
+* {
+    border: 1px solid black;
+}
