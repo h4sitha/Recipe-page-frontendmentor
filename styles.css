@@ -68,6 +68,7 @@ h2 {
 #preparation {
     background-color: hsl(330, 100%, 98%);
     padding: 25px;
+    border-radius: 15px;
 }
 
 #preparation h3 {
