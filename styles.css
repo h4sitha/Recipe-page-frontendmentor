@@ -97,7 +97,7 @@ h2 {
 }
 
 #ingredients li::marker {
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-size: 12px;
 }
 
@@ -115,7 +115,7 @@ h2 {
 }
 
 #instructions li::marker {
-    color: hsl(332, 51%, 32%);
+    color: hsl(14, 45%, 36%);
     font-weight: bold;
 }
 
