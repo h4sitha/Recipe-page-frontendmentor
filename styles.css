@@ -49,3 +49,12 @@ h1, h2 {
 h2 {
     color: hsl(14, 45%, 36%);
 }
+
+#preparation {
+    background-color: hsl(330, 100%, 98%);
+    padding: 10px;
+}
+
+#preparation h3 {
+    color: hsl(332, 51%, 32%);
+}
