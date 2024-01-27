@@ -122,3 +122,28 @@ h2 {
 #instructions li {
     padding-left: 12px;
 }
+
+table {
+    width: 100%;
+}
+
+table, table caption {
+    text-align: left;
+}
+
+table caption {
+    margin-bottom: 20px;
+}
+
+table th {
+    padding: 7px 30px;
+}
+
+table td {
+    padding: 7px 0;
+}
+
+table th,
+table td {
+    width: 50%;
+}
