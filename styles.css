@@ -119,6 +119,6 @@ h2 {
     font-weight: bold;
 }
 
-#instructions span {
+#instructions li {
     padding-left: 12px;
 }
