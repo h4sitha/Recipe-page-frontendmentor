@@ -226,4 +226,8 @@ hr {
         font-size: 35px;
     }
 
+    main {
+        border-radius: 0;
+    }
+
 }
