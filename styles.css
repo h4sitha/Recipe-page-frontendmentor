@@ -104,3 +104,21 @@ h2 {
 #ingredients span {
     padding-left: 12px;
 }
+
+#instructions ol {
+    padding-left: 0;
+    margin-left: 20px;
+}
+
+#instructions li:not(:last-of-type) {
+    margin-bottom: 12px;
+}
+
+#instructions li::marker {
+    color: hsl(332, 51%, 32%);
+    font-weight: bold;
+}
+
+#instructions span {
+    padding-left: 12px;
+}
