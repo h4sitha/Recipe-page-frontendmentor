@@ -54,6 +54,7 @@ h1, h2 {
 
 #header h1 {
     margin: 25px 0 15px 0;
+    font-size: 40px;
 }
 
 #header p {
