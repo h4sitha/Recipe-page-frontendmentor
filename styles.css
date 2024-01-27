@@ -201,4 +201,12 @@ hr {
         border-radius: 0;
     }
 
+    section:not(:first-of-type) {
+        padding: 30px;
+    }
+
+    #header *:not(img) {
+        padding: 0 30px;
+    }
+
 }
