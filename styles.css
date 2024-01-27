@@ -58,3 +58,8 @@ h2 {
 #preparation h3 {
     color: hsl(332, 51%, 32%);
 }
+
+#preparation h3,
+#preparation ul {
+    margin: 0;
+}
