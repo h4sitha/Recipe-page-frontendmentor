@@ -86,3 +86,21 @@ h2 {
 #preparation span {
     padding-left: 12px;
 }
+
+#ingredients ul {
+    padding-left: 0;
+    margin-left: 20px;
+}
+
+#ingredients li:not(:last-of-type) {
+    margin-bottom: 12px;
+}
+
+#ingredients li::marker {
+    color: hsl(332, 51%, 32%);
+    font-size: 12px;
+}
+
+#ingredients span {
+    padding-left: 12px;
+}
