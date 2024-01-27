@@ -222,4 +222,8 @@ hr {
         padding-left: 10px;
     }
 
+    #header h1 {
+        font-size: 35px;
+    }
+
 }
