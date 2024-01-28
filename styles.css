@@ -103,7 +103,7 @@ h2 {
 }
 
 #preparation li {
-    padding-left: 12px;
+    padding-left: 14px;
 }
 
 #ingredients ul {
@@ -121,12 +121,12 @@ h2 {
 }
 
 #ingredients li {
-    padding-left: 12px;
+    padding-left: 14px;
 }
 
 #instructions ol {
     padding-left: 0;
-    margin-left: 20px;
+    margin-left: 22px;
 }
 
 #instructions li:not(:last-of-type) {
@@ -139,7 +139,7 @@ h2 {
 }
 
 #instructions li {
-    padding-left: 12px;
+    padding-left: 14px;
 }
 
 table {
@@ -203,7 +203,7 @@ hr {
     }
 
     section:not(:first-of-type) {
-        padding: 0 32px 0 32px;
+        padding: 0 33px 0 33px;
     }
 
     section:last-of-type {
